@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>claude_test — experiments</title>
+  <style>
+    :root {
+      --bg: #f7f8fa;
+      --card: #ffffff;
+      --ink: #1c2128;
+      --muted: #6a737d;
+      --accent: #6d5efc;
+      --border: #e6e8eb;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0d1117; --card: #161b22; --ink: #e6edf3;
+        --muted: #8b949e; --accent: #8f7dff; --border: #30363d;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.55;
+      -webkit-font-smoothing: antialiased;
+    }
+    .wrap { max-width: 760px; margin: 0 auto; padding: 0 24px 64px; }
+    header {
+      background: linear-gradient(135deg, var(--accent), #b06dfc);
+      color: #fff;
+      padding: 56px 24px 48px;
+      text-align: center;
+    }
+    header h1 { margin: 0 0 8px; font-size: 2.1rem; letter-spacing: -0.02em; }
+    header p { margin: 0; opacity: 0.92; font-size: 1.05rem; }
+    .intro {
+      margin: 36px 0 28px;
+      color: var(--muted);
+      font-size: 1.02rem;
+    }
+    h2 { font-size: 1.15rem; margin: 32px 0 14px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 16px;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 18px 18px 16px;
+      transition: transform .12s ease, box-shadow .12s ease;
+    }
+    .card:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,.08); }
+    .card h3 { margin: 0 0 6px; font-size: 1.02rem; }
+    .card p { margin: 0; color: var(--muted); font-size: .9rem; }
+    .tag {
+      display: inline-block; margin-top: 10px; padding: 2px 9px;
+      font-size: .72rem; border-radius: 999px;
+      background: color-mix(in srgb, var(--accent) 16%, transparent);
+      color: var(--accent);
+    }
+    footer {
+      margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--border);
+      color: var(--muted); font-size: .85rem; text-align: center;
+    }
+    a { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>claude_test</h1>
+    <p>A playground for things I try out with Claude</p>
+  </header>
+
+  <div class="wrap">
+    <p class="intro">
+      This repository collects small experiments &mdash; pages, scripts, and
+      prototypes built with Claude. Each one gets added below as it lands.
+    </p>
+
+    <h2>Experiments</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>Homepage</h3>
+        <p>This landing page. A single self-contained HTML file, no dependencies.</p>
+        <span class="tag">html</span>
+      </div>
+      <div class="card" style="opacity:.6">
+        <h3>More soon&hellip;</h3>
+        <p>New experiments will appear here as cards.</p>
+      </div>
+    </div>
+
+    <footer>
+      Karsten Suhre &middot;
+      <a href="https://github.com/karstensuhre/claude_test">github.com/karstensuhre/claude_test</a>
+    </footer>
+  </div>
+</body>
+</html>
