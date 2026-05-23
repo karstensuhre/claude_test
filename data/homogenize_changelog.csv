@@ -1,0 +1,73 @@
+column,row_id,original,homogenized
+Biofluid,2,Plasma and Serum,Plasma + Serum
+Platform,5,Gas chromatography,GC
+Biofluid,7,Urine and Plasma,Urine + Plasma
+Platform,8,NMR (Brainshake),NMR (Nightingale)
+Platform,11,NMR (Brainshake),NMR (Nightingale)
+Platform,21,MS (Metabolon & Biocrates),MS (Metabolon + Biocrates)
+Platform,24,Diverse,Multiple
+Platform,29,NMR (Brainshake),NMR (Nightingale)
+Platform,33,UPLC- MS/MS or UPLC- ESI-MS/MS,LC-MS/MS
+Biofluid,34,Plasma + RBCs,Plasma + RBC
+Platform,34,gas chromatography or gas-liquid chromatography,GC
+Platform,35,Metabolon HD4,MS (Metabolon HD4)
+Platform,36,Biocrates + Metabolon,MS (Biocrates + Metabolon)
+Platform,37,Metabolon HD4,MS (Metabolon HD4)
+Platform,38,Metabolon HD4,MS (Metabolon HD4)
+Platform,40,Lipid-related metabolites from Metabolon platform,MS (Metabolon)
+Platform,42,Lipotype platform,MS (Lipotype)
+Biofluid,43,Plasma + serum,Plasma + Serum
+Platform,43,Metabolon HD4 + Biocrates p180 + Nightingale,Multiple (Metabolon HD4 + Biocrates p180 + Nightingale)
+Platform,44,Metabolon HD4,MS (Metabolon HD4)
+Biofluid,45,NA,?
+Platform,45,NA,?
+Platform,47,Metabolon HD4,MS (Metabolon HD4)
+Platform,48,Metabolon HD2/HD4,MS (Metabolon HD2/HD4)
+Platform,49,Metabolon HD4,MS (Metabolon HD4)
+Platform,50,Metabolon HD4,MS (Metabolon HD4)
+Platform,52,Metabolon HD4,MS (Metabolon HD4)
+Biofluid,53,Cerebrospinal fluid (CSF),CSF
+Platform,53,Metabolon HD4,MS (Metabolon HD4)
+Platform,54,in-house LC-MS/MS platform for polar lipophilic metabolites,LC-MS/MS (in-house)
+Platform,55,in-house platform described here,in-house
+Platform,57,"Biocrates p180, Nightingale NMR, Metabolon HD4",Multiple (Biocrates p180 + Nightingale + Metabolon HD4)
+Platform,58,Targeted Lipidomics using UPLC/ESI-MS/MS,LC-MS/MS (lipidomics)
+Platform,59,not specified,?
+Platform,60,Metabolon HD4,MS (Metabolon HD4)
+Platform,61,Biocrates p150 & Metabolon HD2,MS (Biocrates p150 + Metabolon HD2)
+Platform,62,Metabolon HD4,MS (Metabolon HD4)
+Platform,64,West Coast Metabolomics Center at University of California Davis,?
+Biofluid,65,"Plasma, mitochondrial DNA",Plasma
+Platform,65,Biocrates p150,MS (Biocrates p150)
+Platform,66,Metabolon HD4,MS (Metabolon HD4)
+Biofluid,67,"Plasma, before/after liquid meal",Plasma
+Platform,68,Broad institute,MS (Broad)
+Platform,69,Metabolon HD4,MS (Metabolon HD4)
+Platform,71,Nightingale platform (limited to 16 selected metabolites),NMR (Nightingale)
+Platform,72,Metabolon HD4,MS (Metabolon HD4)
+Platform,73,"Metabolon HD4, limited to acetaminophen metabolites",MS (Metabolon HD4)
+Platform,75,Biocrates p180,MS (Biocrates p180)
+Platform,78,Metabolon HD4,MS (Metabolon HD4)
+Platform,79,HPLC-MS/MS,LC-MS/MS
+Platform,81,Metabolon HD4,MS (Metabolon HD4)
+Platform,82,Uses two LC-MS methods on an Agilent system & whole genome sequencing,LC-MS
+Biofluid,83,Red blood cells (RBC),RBC
+Platform,84,LC–MS/MS and SPME-GC-HRMS,LC-MS/MS + GC-HRMS
+Biofluid,85,Urine & Plasma,Urine + Plasma
+Platform,85,Metabolon HD4,MS (Metabolon HD4)
+Platform,86,600 MHz Bruker AVANCE III HD NMR spectrometer,NMR
+Platform,87,"amino acids, hormones, water-soluble vitamins (WSV), fat-soluble vitamins (FSV), and metal elements",?
+Platform,88,Lipotype GmbH,MS (Lipotype)
+Platform,89,"plasma eicosanoids and related metabolites, including PUFAs",?
+Biofluid,90,Cerebrospinal fluid (CSF) and brain,CSF + brain
+Platform,90,Metabolon HD4,MS (Metabolon HD4)
+Biofluid,91,Red blood cells (RBC),RBC
+Platform,91,,?
+Platform,92,Chenomx,NMR (Chenomx)
+Biofluid,93,Predominantly plasma,Plasma
+Platform,93,Nightingale,NMR (Nightingale)
+Platform,94,Nightingale,NMR (Nightingale)
+Platform,95,Nightingale,NMR (Nightingale)
+Platform,96,Nightingale Health urine NMR platform,NMR (Nightingale)
+Platform,97,Metabolon/Broad platform,"MS (Metabolon, Broad)"
+Platform,98,Metabolon HD4,MS (Metabolon HD4)

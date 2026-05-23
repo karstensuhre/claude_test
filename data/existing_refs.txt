@@ -1,0 +1,99 @@
+# Existing 98 entries already in the table (do NOT re-add these or their preprint/published twins)
+Gieger et al., 2008 | DOI:10.1371/journal.pgen.1000282 | Genetics meets metabolomics: a genome-wide association study of metabolite profiles in human serum.
+Hicks et al., 2009 | DOI:10.1371/journal.pgen.1000672 | Genetic determinants of circulating sphingolipid concentrations in European populations.
+Illig et al., 2010 | DOI:10.1038/ng.507 | A genome-wide perspective of genetic variation in human metabolism.
+Suhre et al., 2011 | DOI:10.1038/ng.837 | A genome-wide association study of metabolic traits in human urine.
+Lemaitre et al., 2011 | DOI:10.1371/journal.pgen.1002193 | Genetic loci associated with plasma phospholipid n-3 fatty acids: a meta-analysis of genome-wide association studies from the CHARGE Consortium.
+Suhre et al., 2011 | DOI:10.1038/nature10354 | Human metabolic individuality in biomedical and pharmaceutical research.
+Nicholson et al., 2011 | DOI:10.1371/journal.pgen.1002270 | A genome-wide metabolic QTL analysis in Europeans implicates two loci shaped by recent positive selection.
+Kettunen et al., 2012 | DOI:10.1038/ng.1073 | Genome-wide association study identifies multiple loci influencing human serum metabolite levels.
+Demirkan et al., 2012 | DOI:10.1371/journal.pgen.1002490 | Genome-wide association study identifies novel loci associated with circulating phospho- and sphingolipid concentrations.
+Tukiainen et al., 2012 | DOI:- | 
+Inouye et al., 2012 | DOI:10.1371/journal.pgen.1002907 | Novel Loci for metabolic networks and multi-tissue expression studies reveal genes for atherosclerosis.
+Krumsiek et al., 2012 | DOI:10.1371/journal.pgen.1003005 | Mining the unknown: a systems approach to metabolite identification combining genetic and metabolic information.
+Montoliu et al., 2013 | DOI:10.1007/s12263-012-0313-7 | Current status on genome-metabolome-wide associations: an opportunity in nutrition research.
+Raffler et al., 2013 | DOI:10.1186/gm417 | Identification and MS-assisted interpretation of genetically influenced NMR signals in human plasma.
+Wu et al., 2013 | DOI:10.1161/circgenetics.112.964619 | Genome-wide association study identifies novel loci associated with concentrations of four plasma phospholipid fatty acids in the de novo lipogenesis pathway: results from the Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) consortium.
+Hong et al., 2013 | DOI:10.1002/humu.22267 | A genome-wide assessment of variability in human serum metabolism.
+Rhee et al., 2013 | DOI:10.1016/j.cmet.2013.06.013 | A genome-wide association study of the human metabolome in a community-based cohort.
+Rueedi et al., 2014 | DOI:10.1371/journal.pgen.1004132 | Genome-wide association study of metabolic traits reveals novel gene-metabolite-disease links.
+Yu et al., 2014 | DOI:10.1371/journal.pgen.1004212 | Genetic determinants influencing human serum metabolome among African Americans.
+Shin et al., 2014 | DOI:10.1038/ng.2982 | An atlas of genetic influences on human blood metabolites.
+Ried et al., 2014 | DOI:10.1093/hmg/ddu301 | Novel genetic associations with serum level metabolites identified by phenotype set enrichment analyses.
+Demirkan et al., 2015 | DOI:10.1371/journal.pgen.1004835 | Insight in genome-wide association of metabolite quantitative traits by exome sequence analyses.
+Draisma et al., 2015 | DOI:10.1038/ncomms8208 | Genome-wide association study identifies novel genetic variants contributing to variation in blood metabolite levels.
+Mozaffarian et al., 2015 | DOI:10.3945/ajcn.114.094557 | Genetic loci associated with circulating phospholipid trans fatty acids: a meta-analysis of genome-wide association studies from the CHARGE Consortium.
+Raffler et al., 2015 | DOI:10.1371/journal.pgen.1005487 | Genome-Wide Association Study with Targeted and Non-targeted NMR Metabolomics Identifies 15 Novel Loci of Urinary Human Metabolic Individuality.
+Burkhardt et al., 2015 | DOI:10.1371/journal.pgen.1005510 | Integration of Genome-Wide SNP Data and Gene-Expression Profiles Reveals Six Novel Loci and Regulatory Mechanisms for Amino Acids and Acylcarnitines in Whole Blood.
+Kraus et al., 2015 | DOI:10.1371/journal.pgen.1005553 | Metabolomic Quantitative Trait Loci (mQTL) Mapping Implicates the Ubiquitin Proteasome System in Cardiovascular Disease Pathogenesis.
+Tintle et al., 2015 | DOI:10.1016/j.plefa.2014.11.007 | A genome-wide association study of saturated, mono- and polyunsaturated red blood cell fatty acids in the Framingham Heart Offspring Study.
+Kettunen et al., 2016 | DOI:10.1038/ncomms11122 | Genome-wide study for circulating metabolites identifies 62 loci and reveals novel systemic effects of LPA.
+Rhee et al., 2016 | DOI:10.1038/ncomms12360 | An exome array study of the plasma metabolome.
+Yazdani et al., 2016 | DOI:10.1002/gepi.21980 | Identification of Rare Variants in Metabolites of the Carnitine Pathway by Whole Genome Sequencing Analysis.
+Yu et al., 2016 | DOI:10.1126/sciadv.1600800 | Loss-of-function variants influence the human serum metabolome.
+Cornelius et al., 2016 | DOI:- | 
+Yet et al., 2016 | DOI:10.1371/journal.pone.0153672 | Genetic Influences on Metabolite Levels: A Comparison across Metabolomic Platforms.
+Hu et al., 2017 | DOI:- | 
+de Vries et al., 2017 | DOI:- | 
+Long et al., 2017 | DOI:10.1038/ng.3809 | Whole-genome sequencing identifies common-to-rare variants associated with human blood metabolites.
+Yousri et al., 2018 | DOI:10.1038/s41467-017-01972-9 | Whole-exome sequencing identifies common and rare variant metabolic QTLs in a Middle Eastern population.
+Teslovich et al., 2018 | DOI:- | 
+Feofanova et al., Genetics, 2018 | DOI:10.1534/genetics.118.300751 | Sequence-Based Analysis of Lipid-Related Metabolites in a Multiethnic Study.
+Chai et al., ASHG 2018 abstract | DOI:- | 
+Tabassum et al., Nature Comms, 2019, preprint BioRxiv, 2018 (presented at ASHG 2018) | DOI:10.1038/s41467-019-11954-8 | Genetic architecture of human plasma lipidome and its link to cardiovascular disease.
+Wittemans et al., 2019 | DOI:10.1038/s41467-019-08936-1 | Assessing the causal association of glycine with risk of cardio-metabolic diseases.
+Yazdani et al., 2019 | DOI:10.1186/s12864-019-5772-4 | Genome analysis and pleiotropy assessment using causal networks with loss of function mutation and metabolomics.
+Pott et al., J Clin Endocrinol Metab. 2019 | DOI:10.1210/jc.2019-00757 | Genetic Association Study of Eight Steroid Hormones and Implications for Sexual Dimorphism of Coronary Artery Disease.
+Demirkan et al., bioRxiv 2019 | DOI:10.1101/621334 | Genome-wide association study of plasma triglycerides, phospholipids and relation to cardio-metabolic risk factors
+Al-Khelaifi et al., Scientific Reports, 2019 | DOI:10.1038/s41598-019-56496-7 | Metabolic GWAS of elite athletes reveals novel genetically-influenced metabolites associated with athletic performance.
+Schlosser et al., Nature Genetics, 2020 | DOI:10.1038/s41588-019-0567-8 | Genetic studies of urinary metabolites illuminate mechanisms of detoxification and excretion in humans.
+Abhishek et al., Hum Mol Gen, 2020 | DOI:10.1093/hmg/ddz308 | Genome-wide scan identifies novel genetic loci regulating salivary metabolite levels.
+Bar et al., Nature, 2020 | DOI:10.1038/s41586-020-2896-2 | A reference map of potential determinants for the human serum metabolome.
+Coltell et al., Nutrients 2020 | DOI:10.3390/nu12020310 | Genome-Wide Association Study for Serum Omega-3 and Omega-6 Polyunsaturated Fatty Acids: Exploratory Analysis of the Sex-Specific Effects and Dietary Modulation in Mediterranean Subjects with Metabolic Syndrome.
+Feofanova et al., AJHG 2020 | DOI:10.1016/j.ajhg.2020.09.003 | A Genome-wide Association Study Discovers 46 Loci of the Human Metabolome in the Hispanic Community Health Study/Study of Latinos.
+Qin et al., medRxiv 2020 | DOI:10.1101/2020.08.01.20166413 | Genome-wide association and Mendelian randomization analysis prioritizes bioactive metabolites with putative causal effects on common diseases
+Bing Yu et al., ASHG 2020 | DOI:- | 
+Panyard et al., Nature Comms, 2021, previously bioRxiv 2020 | DOI:10.1038/s42003-020-01583-z | Cerebrospinal fluid metabolomics identifies 19 brain-related phenotype associations.
+Harshfield et al., BMC Medicine 2021, preprint on medRxiv 2020 | DOI:10.1186/s12916-021-02087-1 | Genome-wide analysis of blood lipid metabolites in over 5000 South Asians reveals biological insights at cardiometabolic disease loci.
+Lotta et al., Nature Genetics, 2021, preprint bioRxiv, 2020 | DOI:10.1038/s41588-020-00751-5 | A cross-platform approach identifies genetic regulators of human metabolism and health.
+McGurk et al., Human Mol Gen, 2021 | DOI:10.1093/hmg/ddab002 | Heritability and family-based GWAS analyses of the N-acyl ethanolamine and ceramide plasma lipidome.
+Wang et al., Clinical and Translational Medicine, 2021 | DOI:10.1002/ctm2.290 | Genome-wide association study of metabolites in patients with coronary artery disease identified novel metabolite quantitative trait loci.
+Cheng et al., Nature Communications, 2021 | DOI:10.1038/s41467-020-20877-8 | Rare genetic variants affecting urine metabolite levels link population variation to inborn errors of metabolism.
+Vinuela et al., medRxiv 2021 | DOI:10.1101/2021.03.26.21254347 | Genetic analysis of blood molecular phenotypes reveals regulatory networks affecting complex traits: a DIRECT study
+Luo et al., Kidney Int., 2021 | DOI:- | 
+Flitman et al., J. Proteome Res., 2021, preprint bioRxiv 2020 | DOI:10.1021/acs.jproteome.1c00585 | Untargeted Metabolome- and Transcriptome-Wide Association Study Suggests Causal Genes Modulating Metabolite Concentrations in Urine.
+Montasser et al., bioRxiv 2021 | DOI:10.1101/2021.05.21.445208 | Leveraging a founder population to identify novel rare-population genetic determinants of lipidome
+Li-Gao et al. (Diabetes, 2021) | DOI:10.2337/db21-0397 | Genetic Studies of Metabolomics Change After a Liquid Meal Illuminate Novel Pathways for Glucose and Lipid Metabolism.
+Aboulmaouahib et al. (Human Molecular Genetics, 2021) | DOI:10.1093/hmg/ddab312 | First mitochondrial genome-wide association study with metabolomics.
+Hysi et al. (Metabolites, 2022) | DOI:10.3390/metabo12010061 | Metabolome Genome-Wide Association Study Identifies 74 Novel Genomic Regions Influencing Plasma Metabolites Levels.
+Rhee et al. (Kidney Intl, 2022) | DOI:10.1016/j.kint.2022.01.014 | Trans-ethnic genome-wide association study of blood metabolites in the Chronic Renal Insufficiency Cohort (CRIC) study.
+Yin et al. (Nat. Comms 2022), medRxiv 2021 | DOI:10.1038/s41467-022-29143-5 | Genome-wide association studies of metabolites in Finnish men identify disease-relevant loci.
+Jung et al. (Front. Genet., 2022) | DOI:10.3389/fgene.2022.814412 | 
+Smith et al., bioRxiv 2022 | DOI:10.1101/2022.04.02.486791 | Integrative analysis of metabolite GWAS illuminates the molecular basis of pleiotropy and genetic correlation
+Bomba et al., AJHG 2022 | DOI:- | 
+Thareja et al., Metabolites, 2022 | DOI:10.3390/metabo12060496 | Ratios of Acetaminophen Metabolites Identify New Loci of Pharmacogenetic Relevance in a Genome-Wide Association Study.
+Suhre et al., medRxiv 2022 | DOI:10.1101/2022.06.12.22276286 | Lipoprotein profile and metabolic fine-mapping of genetic lipid risk loci
+König et al., Metabolites 2022 | DOI:10.3390/metabo12070604 | Whole Exome Sequencing Enhanced Imputation Identifies 85 Metabolite Associations in the Alpine CHRIS Cohort.
+Francis et al., medRxiv 2022 | DOI:10.1101/2022.05.27.22275343 | Fifty-one novel and replicated GWAS loci for polyunsaturated and monounsaturated fatty acids in 124,024 Europeans
+Karjalainen et al., medRxiv 2022 | DOI:10.1101/2022.10.20.22281089 | Genome-wide characterization of circulating metabolic biomarkers reveals substantial pleiotropy and novel disease pathways
+Surendran et al., Nature Medicine 2022 | DOI:10.1038/s41591-022-02046-0 | Rare and common genetic determinants of metabolic individuality and their effects on human health.
+Asiimwe et al., Frontiers Pharmacology, 2022 | DOI:10.3389/fphar.2022.967082 | 
+Tahir et al., Nature Comms 2022 | DOI:10.1038/s41467-022-32275-3 | Whole Genome Association Study of the Plasma Metabolome Identifies Metabolites Linked to Cardiometabolic Disease in Black Individuals.
+Moore et al., JBC 2022 | DOI:- | 
+Iwasaki et al., iScience 2023 | DOI:- | 
+Chen et al., Nature Genetics 2023 | DOI:10.1038/s41588-022-01270-1 | Genomic atlas of the plasma metabolome prioritizes metabolites implicated in human diseases.
+Liu et al., Advanced Science 2023 | DOI:10.1002/advs.202300148 | Metabolome-Based Genome-Wide Association Study of Duck Meat Leads to Novel Genetic and Biochemical Insights.
+Schlosser et al., Nat. Genet. 2023 | DOI:10.1038/s41588-023-01409-8 | Genetic studies of paired metabolomes reveal enzymatic and transport processes at the interface of plasma and urine.
+Valo et al., medRxiv 2023 | DOI:10.1101/2023.12.20.23300206 | Genome-wide characterization of 54 urinary metabolites reveals molecular impact of kidney function
+Liu et al., medRxiv 2023 | DOI:10.1101/2023.11.26.23299022 | Multi-trait genome-wide association study in 34,394 Chinese women reveals the genetic architecture of plasma metabolites during pregnancy
+Ottensmann et al., Nat. Comm. 2023 | DOI:10.1038/s41467-023-42532-8 | Genome-wide association analysis of plasma lipidome identifies 495 genetic associations.
+Rhee et al., Commun. Biol. 2023 | DOI:10.1038/s42003-023-05159-5 | A genome-wide association study identifies 41 loci associated with eicosanoid levels.
+Wang et al., pre-print on Research Square, 2023 | DOI:10.21203/rs.3.rs-2923409 | 
+Westra et al., PLEFA 2023 | DOI:- | 
+Feofanova et al., Nat. Comms 2023 | DOI:10.1038/s41467-023-38800-2 | Whole-Genome Sequencing Analysis of Human Metabolome in Multi-Ethnic Populations.
+Daubney et al., Crit. Care Expl. 2024 | DOI:10.1097/cce.0000000000001030 | A Genome-Wide Association Study of Serum Metabolite Profiles in Septic Shock Patients.
+Karjalainen et al., Nature 2024 | DOI:10.1038/s41586-024-07148-y | Genome-wide characterization of circulating metabolic biomarkers.
+Tambets et al., medRxiv 2024 | DOI:10.1101/2024.10.15.24315557 | Genome-wide association study for circulating metabolic traits in 619,372 individuals
+Faquih et al., medRxiv 2024 | DOI:10.1101/2024.10.02.24314800 | Genome-wide Association Studies of Missing Metabolite Measures: Results From Two Population-based Studies
+Zoodsma et al., medRxiv 2025 | DOI:10.1101/2025.01.30.25321073 | A genetic map of human metabolism across the allele frequency spectrum
+Valo et al., Nat. Comms 2025 | DOI:10.1038/s41467-024-55182-1 | Genome-wide characterization of 54 urinary metabolites reveals molecular impact of kidney function.
