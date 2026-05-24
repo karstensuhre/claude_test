@@ -1,0 +1,280 @@
+column,row_id,original,homogenized
+Platform,1,Immuno-assay,Immunoassay
+Sample_type,1,(none in source),Plasma/serum (assumed)
+pQTL,1,8,cis= trans= total=8
+Platform,2,Aptamer-based (SOMAscan v1),Aptamer (SomaScan)
+Sample_type,2,(none in source),Plasma
+pQTL,2,60,cis= trans= total=60
+Platform,3,Mass-spectrometry,Mass spec
+Sample_type,3,(none in source),Plasma
+pQTL,3,5,cis= trans= total=5
+Platform,4,Immuno-assay,Immunoassay
+Sample_type,4,(none in source),Plasma
+pQTL,4,28,cis= trans= total=28
+Platform,5,Immune traits (not really proteomics),Other / unspecified
+Sample_type,5,(none in source),Plasma/serum (assumed)
+pQTL,5,23,cis= trans= total=23
+Platform,6,Micro-western and reverse phase protein arrays,Mass spec
+Sample_type,6,(none in source),Plasma/serum (assumed)
+pQTL,6,NA,cis= trans= total=
+Platform,7,Immuno-assay,Immunoassay
+Sample_type,7,(none in source),Plasma/serum (assumed)
+pQTL,7,18,cis= trans= total=18
+Platform,8,Immuno-assay for proteins relevant to Altzheimer's disease,Immunoassay
+Sample_type,8,(none in source),CSF
+pQTL,8,5,cis= trans= total=5
+Platform,9,Mass-spectrometry,Mass spec
+Sample_type,9,(none in source),Plasma
+pQTL,9,18,cis= trans= total=18
+Platform,10,Multiplex immuno assays (Myriad-RBM),Immunoassay
+Sample_type,10,(none in source),Plasma/serum (assumed)
+pQTL,10,527,cis= trans= total=527
+Platform,11,Immuno-assay,Immunoassay
+Sample_type,11,(none in source),Plasma
+pQTL,11,56,cis= trans= total=56
+Platform,12,Immuno-assay for proteins implicated in cardiovascular diseases,Immunoassay
+Sample_type,12,(none in source),Serum
+pQTL,12,27,cis= trans= total=27
+Platform,13,Immuno-assay for cytokines and growth factors,Immunoassay
+Sample_type,13,(none in source),Plasma/serum (assumed)
+pQTL,13,27,cis= trans= total=27
+Platform,14,Aptamer-based (SOMAscan 1.1k),Aptamer (SomaScan)
+Sample_type,14,(none in source),Serum
+pQTL,14,41,cis= trans= total=41
+Platform,15,Aptamer-based (SOMAscan 1.1k),Aptamer (SomaScan)
+Sample_type,15,(none in source),Plasma
+pQTL,15,539,cis= trans= total=539
+Platform,16,Aptamer-based (SOMAscan 1.1k),Aptamer (SomaScan)
+Sample_type,16,(none in source),CSF
+pQTL,16,476,cis= trans= total=476
+Platform,17,Immuno-assay for proteins implicated in cardiovascular diseases,Immunoassay
+Sample_type,17,(none in source),Plasma
+pQTL,17,79,cis= trans= total=79
+Platform,18,Mass-spectrometry (small peptide subset of the non-targeted Metabolon metabolomics platform),Mass spec
+Sample_type,18,(none in source),Serum
+pQTL,18,22,cis= trans= total=22
+Platform,19,Antibody-based proximity extension assay,PEA (Olink)
+Sample_type,19,(none in source),Plasma/serum (assumed)
+pQTL,19,45,cis= trans= total=45
+Platform,20,Aptamer-based (SOMAscan 1.1k),Aptamer (SomaScan)
+Sample_type,20,(none in source),Plasma/serum (assumed)
+pQTL,20,55,cis= trans= total=55
+Platform,21,"Aptamer-based, array based genotyping and exome seq",Aptamer (SomaScan)
+Sample_type,21,(none in source),Plasma/serum (assumed)
+pQTL,21,161,cis= trans= total=161
+Platform,22,"Mean fluorescence intensity (MFI), cell surface marker (not really proteomics)",Other / unspecified
+Sample_type,22,(none in source),Plasma/serum (assumed)
+pQTL,22,36,cis= trans= total=36
+Platform,23,Aptamer-based (SOMAscan in-house),Aptamer (SomaScan)
+Sample_type,23,(none in source),Plasma
+pQTL,23,1927,cis= trans= total=1927
+Platform,24,Aptamer-based (SOMAscan in-house),Aptamer (SomaScan)
+Sample_type,24,(none in source),Serum
+pQTL,24,3134,cis= trans= total=3134
+Platform,25,"Immuno-assay for proteins implicated in cardiovascular diseases, replication aptamer-based",Aptamer (SomaScan)
+Sample_type,25,(none in source),Plasma
+pQTL,25,105,cis= trans= total=105
+Platform,26,"Immuno-assay (Luminex / Milliplex, targeting chemokines & cytokines)",Immunoassay
+Sample_type,26,(none in source),Plasma/serum (assumed)
+pQTL,26,16,cis= trans= total=16
+Platform,27,Tandem Mass Tag Mass Spectrometry (TMT-MS),Mass spec
+Sample_type,27,(none in source),Plasma/serum (assumed)
+pQTL,27,712,cis= trans= total=712
+Platform,28,Immuno-assay (Olink CVD II panel),PEA (Olink)
+Sample_type,28,(none in source),Plasma/serum (assumed)
+pQTL,28,214,cis= trans= total=214
+Platform,29,"Tandem mass tag mass spectrometry, with whole-exome sequencing",Mass spec
+Sample_type,29,(none in source),Plasma
+pQTL,29,60,cis= trans= total=60
+Platform,30,Proteome PheWAS browser,Other / unspecified
+Sample_type,30,(none in source),Plasma
+pQTL,30,NA,cis= trans= total=
+Platform,31,Immuno-assay (Olink neurology panel),PEA (Olink)
+Sample_type,31,(none in source),Plasma/serum (assumed)
+pQTL,31,41,cis= trans= total=41
+Platform,32,Immuno-assay (Olink INF panel),PEA (Olink)
+Sample_type,32,(none in source),Plasma/serum (assumed)
+pQTL,32,"at least one pQTL for 71 out of 91 proteins; 12 had cis pQTLs only, 14 trans only, and 45 both cis and trans",cis= trans=14 total=
+Platform,33,Immuno-assay (Olink CVD II & III panels),PEA (Olink)
+Sample_type,33,(none in source),Plasma/serum (assumed)
+pQTL,33,"22,518 genome-wide significant SNPs",cis= trans= total=
+Platform,34,Immuno-assay (multiple Olink panels),PEA (Olink)
+Sample_type,34,(none in source),Plasma/serum (assumed)
+pQTL,34,"3,545 pQTLs between 374 proteins and 968 genes mapping to 377 genomic regions",cis= trans= total=3545
+Platform,35,Tandem mass tag (TMT) proteomics of brain tissue; uses Whole Genome Sequencing,Mass spec
+Sample_type,35,(none in source),Brain tissue
+pQTL,35,"8,451 independent proximal brain pQTLs for 2,474 genes",cis= trans= total=8451
+Platform,36,Immuno-assay (from Olink panels Oncology I and CVD I); uses Whole Genome Sequencing,PEA (Olink)
+Sample_type,36,(none in source),Plasma/serum (assumed)
+pQTL,36,18 novel,cis= trans= total=18
+Platform,37,Cytokines using multiplex fluorescent bead-based immunoassays (Bio-Rad),Immunoassay
+Sample_type,37,(none in source),Plasma/serum (assumed)
+pQTL,37,8 loci,cis= trans= total=8
+Platform,38,Immuno-assay (Olink CVD-I panel),PEA (Olink)
+Sample_type,38,(none in source),Plasma/serum (assumed)
+pQTL,38,451 pQTLs for 85 proteins,cis= trans= total=451
+Platform,39,"Cardiometabolic biomarkers, Luminex 100/200 immunoassay platform",Immunoassay
+Sample_type,39,(none in source),Serum
+pQTL,39,"46 regions (not a GWAS, uses admixture mapping)",cis= trans= total=46
+Platform,40,"Immuno-assay (Olink CVD-II, CVD-III, and MET panels), uses Whole Genome Sequencing",PEA (Olink)
+Sample_type,40,(none in source),Plasma/serum (assumed)
+pQTL,40,131,cis= trans= total=131
+Platform,41,Aptamer-based (SOMAscan in-house),Aptamer (SomaScan)
+Sample_type,41,(none in source),Serum
+pQTL,41,5451,cis= trans= total=5451
+Platform,42,Immuno-assay (11 Olink panels),PEA (Olink)
+Sample_type,42,(none in source),Plasma/serum (assumed)
+pQTL,42,144 pQTLs across 107 proteins,cis= trans= total=144
+Platform,43,Antibodies in suspension bead arrays,Immunoassay
+Sample_type,43,(none in source),Plasma
+pQTL,43,15 cis-pQTLs,cis=15 trans= total=15
+Platform,44,Immuno-assay (Olink inflammation panel),PEA (Olink)
+Sample_type,44,(none in source),Plasma/serum (assumed)
+pQTL,44,13,cis= trans= total=13
+Platform,45,MS proteomics (130 proteins) and Aptamer-based (1100 proteins),Aptamer (SomaScan)
+Sample_type,45,(none in source),Plasma
+pQTL,45,136,cis= trans= total=136
+Platform,46,"Immuno-assay (Olink CVD2, CVD3, and INF panels)",PEA (Olink)
+Sample_type,46,(none in source),Plasma/serum (assumed)
+pQTL,46,154,cis= trans= total=154
+Platform,47,Aptamer-based (Somalogic V4 platform),Aptamer (SomaScan)
+Sample_type,47,(none in source),Plasma/serum (assumed)
+pQTL,47,220 cis-pQTLs for 97 proteins,cis=220 trans= total=220
+Platform,48,Aptamer-based (Somalogic V4),Aptamer (SomaScan)
+Sample_type,48,(none in source),Plasma
+pQTL,48,1005 (AA) and 1384 (EA) cis-associations (trans not analyzed),cis= trans= total=1005
+Platform,49,"Immuno-assay (four Olink panels: CVD I, II, II, Development & Metabolism); study also incl. metabolomics & transcriptomics GWAS",PEA (Olink)
+Sample_type,49,(none in source),Plasma/serum (assumed)
+pQTL,49,"1,590 cis-pQTLs, 533 trans-pQTLs",cis=1590 trans=533 total=2123
+Platform,50,Immuno-assay (Olink Explorer platform),PEA (Olink)
+Sample_type,50,(none in source),Plasma
+pQTL,50,331 associations between 143 proteins and 321 independent genetic variants,cis= trans= total=331
+Platform,51,Aptamer-based (Somalogic V4? platform),Aptamer (SomaScan)
+Sample_type,51,(none in source),Plasma/serum (assumed)
+pQTL,51,Supp Tab 3 provides pQTL data for 21 age-associated variants with 3641 aptamers,cis= trans= total=
+Platform,52,Aptamer-based (SOMAscan in-house),Aptamer (SomaScan)
+Sample_type,52,(none in source),Serum
+pQTL,52,4113,cis= trans= total=4113
+Platform,53,Aptamer-based (SOMAscan 1.3k),Aptamer (SomaScan)
+Sample_type,53,(none in source),CSF
+pQTL,53,"274, 127 and 32 pQTLs for CSF, plasma, and brain, resp.",cis= trans= total=274
+Platform,54,Aptamer-based (Somalogic V4 platform),Aptamer (SomaScan)
+Sample_type,54,(none in source),Plasma
+pQTL,54,"10,674 pQTLs for 3,892 proteins",cis= trans= total=10674
+Platform,55,Aptamer-based (SOMAscan 1.3k),Aptamer (SomaScan)
+Sample_type,55,(none in source),Plasma
+pQTL,55,569,cis= trans= total=569
+Platform,56,Aptamer-based (Somalogic V4 platform),Aptamer (SomaScan)
+Sample_type,56,(none in source),Plasma
+pQTL,56,"18,084",cis= trans= total=18084
+Platform,57,Immuno-assay (Olink neurology and neuro-exploratory panels),PEA (Olink)
+Sample_type,57,(none in source),Serum
+pQTL,57,214 pQTLs for 107 proteins,cis= trans= total=214
+Platform,58,11-plex tandem mass tag (TMT) coupled with two-dimensional liquid chromatography-tandem mass spectrometry (LC/LC-MS/MS),Mass spec
+Sample_type,58,(none in source),Brain tissue
+pQTL,58,788 cis-pQTLs with 883 proteins,cis=788 trans= total=788
+Platform,59,Olink Explore 1536 platform,PEA (Olink)
+Sample_type,59,(none in source),Plasma
+pQTL,59,"10,248 primary associations across 2,928 independent genetic regions",cis= trans= total=10248
+Platform,60,"SomaScan1.3K, SomaScan5K, Olink Explore",Multi-platform
+Sample_type,60,(none in source),Plasma/serum (assumed)
+pQTL,60,425 known + 373 new cis-pQTLs,cis= trans= total=425
+Platform,61,SomaScan1.3k,Aptamer (SomaScan)
+Sample_type,61,(none in source),Plasma/serum (assumed)
+pQTL,61,"2,685",cis= trans= total=2685
+Platform,62,LC-MS/MS using DIA-TPA,Mass spec
+Sample_type,62,(none in source),Plasma/serum (assumed)
+pQTL,62,900 local pQTL variants and 4026 distant pQTL variants,cis= trans= total=
+Platform,63,Olink Explore 1536 platform,PEA (Olink)
+Sample_type,63,(none in source),Plasma
+pQTL,63,"3,674",cis= trans= total=3674
+Platform,64,Olink Explore 1536 platform,PEA (Olink)
+Sample_type,64,(none in source),Plasma/serum (assumed)
+pQTL,64,"2,374",cis= trans= total=2374
+Platform,65,targeted Olink panels,PEA (Olink)
+Sample_type,65,(none in source),Plasma/serum (assumed)
+pQTL,65,not specified,cis= trans= total=
+Platform,66,a novel antibody-based assay (source not specified),Immunoassay
+Sample_type,66,(none in source),Plasma/serum (assumed)
+pQTL,66,"1,553 cis-pQTLs",cis=1553 trans= total=1553
+Platform,67,Olink Explore 1536 platform,PEA (Olink)
+Sample_type,67,(none in source),Plasma/serum (assumed)
+pQTL,67,not specified,cis= trans= total=
+Platform,68,Somalogic aptamer-based technology,Aptamer (SomaScan)
+Sample_type,68,(none in source),Plasma/serum (assumed)
+pQTL,68,456,cis= trans= total=456
+Platform,69,Somalogic aptamer-based technology [study also has Metabolon mQTLs],Aptamer (SomaScan)
+Sample_type,69,(none in source),CSF
+pQTL,69,"2,472",cis= trans= total=2472
+Platform,70,Olink Explore 1536 platform,PEA (Olink)
+Sample_type,70,(none in source),Plasma/serum (assumed)
+pQTL,70,"1,678 (AA), 1,153 (EA)",cis= trans= total=1678
+Platform,71,"Proteograph Product Suite (Seer Inc.) using nanoparticle-based enrichment, DIA and DDA MS/MS",Mass spec
+Sample_type,71,(none in source),Plasma/serum (assumed)
+pQTL,71,"73/59 cis-pQTLs and 1,527/3,288 trans-pQTLs from DDA/DIA",cis=59 trans=3288 total=3347
+Platform,72,Olink Explore 1536 platform,PEA (Olink)
+Sample_type,72,(none in source),Plasma/serum (assumed)
+pQTL,72,"28,867",cis= trans= total=28867
+Platform,73,not specified,Other / unspecified
+Sample_type,73,(none in source),Brain tissue
+pQTL,73,"1,171 SNP-by-sex interactions",cis= trans= total=
+Platform,74,SOMAScan 4.1,Aptamer (SomaScan)
+Sample_type,74,(none in source),Serum
+pQTL,74,696,cis= trans= total=696
+Platform,75,"Olink panels (CVD-III, INF-I, NEU-I, NEUEXP) + other assays (ELISA, Meso Scale Discovery, ..)",PEA (Olink)
+Sample_type,75,(none in source),CSF
+pQTL,75,176,cis= trans= total=176
+Platform,76,Luminex,Immunoassay
+Sample_type,76,(none in source),Plasma
+pQTL,76,152,cis= trans= total=152
+Platform,77,SOMAscan v4,Aptamer (SomaScan)
+Sample_type,77,(none in source),Plasma
+pQTL,77,64,cis= trans= total=64
+Platform,78,Olink Explore 1536 and Explore Expansion assays,PEA (Olink)
+Sample_type,78,(none in source),Plasma/serum (assumed)
+pQTL,78,256 unreported pQTLs,cis= trans= total=256
+Platform,79,DIA-MS,Mass spec
+Sample_type,79,(none in source),Plasma
+pQTL,79,712 for 158 proteins,cis= trans= total=712
+Platform,80,SWATH-MS,Mass spec
+Sample_type,80,(none in source),Serum
+pQTL,80,195,cis= trans= total=195
+Platform,81,Isobaric tandem mass tag peptide labeling with peptides analyzed by liquid chromatography coupled to tandem mass spectrometry (MS),Mass spec
+Sample_type,81,(none in source),Brain tissue
+pQTL,81,"1,036,025 pQTLs identified in the first stage",cis= trans= total=1036025
+Platform,82,Isobaric tandem mass tag peptide labeling with peptides analyzed by liquid chromatography coupled to tandem mass spectrometry (MS),Mass spec
+Sample_type,82,(none in source),Brain tissue
+pQTL,82,N/A,cis= trans= total=
+Platform,83,Olink Inflamation panel,PEA (Olink)
+Sample_type,83,(none in source),Plasma/serum (assumed)
+pQTL,83,"180 pQTLs (59 cis, 121 trans)",cis=59 trans=121 total=180
+Platform,84,Olink Explore 3072,PEA (Olink)
+Sample_type,84,(none in source),Plasma
+pQTL,84,"14,287",cis= trans= total=14287
+Platform,85,Olink Explore 3072,PEA (Olink)
+Sample_type,85,(none in source),Plasma
+pQTL,85,"5,433 rare genotype–protein associations",cis= trans= total=5433
+Platform,86,Olink Explore 3072,PEA (Olink)
+Sample_type,86,(none in source),Plasma
+pQTL,86,"2,102 cis and 24,824 trans in the British or Irish ancestry group",cis=2102 trans=24824 total=26926
+Platform,87,Olink CVD2 and CVD3 panels,PEA (Olink)
+Sample_type,87,(none in source),Plasma/serum (assumed)
+pQTL,87,"1,308",cis= trans= total=1308
+Platform,88,Olink Metabolism panel,PEA (Olink)
+Sample_type,88,(none in source),Plasma/serum (assumed)
+pQTL,88,503,cis= trans= total=503
+Platform,89,Olink Cardiometabolic panel,PEA (Olink)
+Sample_type,89,(none in source),Serum
+pQTL,89,322,cis= trans= total=322
+Platform,90,Olink Explore 1536 platform,PEA (Olink)
+Sample_type,90,(none in source),Plasma
+pQTL,90,"2,872",cis= trans= total=2872
+Platform,91,Olink Explore 1536 platform,PEA (Olink)
+Sample_type,91,(none in source),Plasma/serum (assumed)
+pQTL,91,"8,462 rQTLs",cis= trans= total=8462
+Platform,92,"Olink CVD II, CVD III, Inflammation, Oncology II",PEA (Olink)
+Sample_type,92,(none in source),Plasma
+pQTL,92,"278 (184 cis, 94 trans)",cis=184 trans=94 total=278
+Platform,93,LC-TMT-MS,Mass spec
+Sample_type,93,(none in source),Plasma/serum (assumed)
+pQTL,93,1981 cis-pQTLs,cis=1981 trans= total=1981

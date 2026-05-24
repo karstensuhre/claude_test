@@ -1,2 +1,5 @@
 data/harvest_candidates.csv
 data/agent_out/
+data/pgwas_harvest_candidates.csv
+data/pgwas_agent_out/
+data/*.bak
